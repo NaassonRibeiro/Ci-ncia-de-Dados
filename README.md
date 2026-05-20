@@ -4,7 +4,7 @@ Este repositório contém exemplos práticos utilizando Python no Google Colabor
 
 ## Arquivos
 
-### `atividade.ipynb`
+### `AP01.ipynb`
 
 Notebook desenvolvido no Google Colab contendo exemplos de:
 
